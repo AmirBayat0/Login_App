@@ -1,9 +1,8 @@
-#This project is unmaintained as of now, but as I get time (In next few months, probably), It will be fixed to work.
---------------------------------------------------------------------------
-#I worked on this project during highschool, in The first semester of university. Since, I wasn't familier with versioning systems, Hence, there is no past history of code.
+# This project is unmaintained as of now, but as I get time (In next few months, probably), It will be fixed to work.
 
+I worked on this project during highschool, in The first semester of university. Since, I wasn't familier with versioning systems, Hence, there is no past history of code
 The code is written in pathetic manner, it lacks modularity, comments, test-cases, documentation, schema backup etc but another fact is during that period for me it was an example of good code ;)
----------------------------------------------------------------------------------
+
 # Login_App
 This Simple Log in application created by Basic For Android
 
